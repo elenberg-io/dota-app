@@ -12,7 +12,8 @@ for i in matchID_list[:2]:
     match = requests.get("https://api.opendota.com/api/matches/{}".format(i))
     match = json.loads(match.text)
     match_df = pd.json_normalize(match)
-    match_df = match_df[['first_blood_time',
+    match_df = match_df[['match_id',
+                         'first_blood_time',
                          'game_mode',
                          'human_players',
                          'objectives',
