@@ -2,8 +2,6 @@ import requests
 import pandas as pd
 import json
 
-print("dfdfd")
-
 # read in match id data
 matchID_df = pd.read_csv('promatchID.csv')
 matchID_list = matchID_df['match_id'].to_list()
@@ -17,7 +15,6 @@ for i in matchID_list[:2]:
                          'first_blood_time',
                          'game_mode',
                          'human_players',
-                         'objectives',
                          'version',
                          'patch',
                          'players',
