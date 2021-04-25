@@ -3,7 +3,7 @@ from django.db import models
 
 
 class Games(models.Model):
-    match_id = models.PositiveIntegerField()
+    match_id = models.PositiveIntegerField(primary_key=True)
     duration = models.PositiveIntegerField()
     start_time = models.PositiveIntegerField()
     radiant_score = models.PositiveIntegerField()
@@ -12,7 +12,7 @@ class Games(models.Model):
 
 
 class GameStats(models.Model):
-    match_id = models.ForeignKey(Games, on_delete=models.CASCADE)
+    match_id = models.ForeignKey(Games, to_field='match_id', on_delete=models.CASCADE)
     first_blood_time = models.PositiveIntegerField()
     game_mode = models.PositiveIntegerField()
     human_players = models.PositiveIntegerField()

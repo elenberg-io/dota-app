@@ -7,8 +7,8 @@ matchID_df = pd.read_csv('promatchID.csv')
 matchID_list = matchID_df['match_id'].to_list()
 total_matches_df = pd.DataFrame()
 
-for i in matchID_list[:2]:
-    match = requests.get("https://api.opendota.com/api/matches/{}".format(i))
+for i in matchID_list:
+    match = requests.get('https://api.opendota.com/api/matches/{}'.format(i))
     match = json.loads(match.text)
     match_df = pd.json_normalize(match)
     match_df = match_df[['match_id',
