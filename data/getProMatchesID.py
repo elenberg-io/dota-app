@@ -5,7 +5,7 @@ import json
 
 # read in existing match id data
 try:
-    promatchID_df_exist = pd.read_csv('promatchID.csv')
+    promatchID_df_exist = pd.read_csv('output/promatchID.csv')
 except pd.errors.EmptyDataError:
     promatchID_df_exist = pd.DataFrame()
     print('There is no existing data in the pro matches ID .csv file')
@@ -39,6 +39,4 @@ total_promatchID_df = total_promatchID_df.append(promatchID_df_exist, ignore_ind
 
 # save in csv the combined data of match id's
 total_promatchID_df.to_csv('promatchID.csv', index=False)
-
-
 

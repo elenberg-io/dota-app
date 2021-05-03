@@ -4,14 +4,14 @@ import os
 
 from django.core.management import BaseCommand
 
-from dotaStatsApp.models import Games, GameStats
+from dotaStatsApp.models import Heroes, GameStats
 
 
 class Command(BaseCommand):
-    help = 'Loads Dota games data and stats into the Games and GameStats models'
+    help = 'Loads Dota heroes data and stats into the Heroes and GameStats models'
 
     def handle(self, *args, **options):
-        if Games.objects.exists() or GameStats.objects.exists():
+        if Heroes.objects.exists() or GameStats.objects.exists():
             return
         matchID_fp = os.path.join('data', 'promatchID.csv')
         matchData_fp = os.path.join('data', 'matchData.csv')
