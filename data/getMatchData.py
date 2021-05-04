@@ -9,11 +9,14 @@ from static.mappings import regions_map, game_mode_map, match_cols, player_cols
 
 
 # get the starting gameID for the API calls
-final_gameID_df = pd.read_csv(os.path.join('output', 'matchData.csv'), usecols=['match_id'])
-if len(final_gameID_df) == 1:
+try:
+    final_gameID_df = pd.read_csv(os.path.join('output', 'matchData.csv'), usecols=['match_id'])
+    if len(final_gameID_df) == 1:
+        final_gameID = 5975826794
+    else:
+        final_gameID = final_gameID_df.min()[0] - 1
+except pd.errors.EmptyDataError:
     final_gameID = 5975826794
-else:
-    final_gameID = final_gameID_df.min()[0] - 1
 
 # instantiate dataframe that will hold API call processed data
 total_match_df = pd.DataFrame()
@@ -59,8 +62,6 @@ try:
     total_match_df['game_mode'] = total_match_df['game_mode'].astype(str).map(lambda x: game_mode_map[x]['name'])
     # tens place indicates rank, ones place indicates stars
     total_match_df['rank_tier'] = total_match_df['rank_tier'].map(lambda x: str(x)[0], na_action='ignore')
-
-    # total_match_df['start_time'] = pd.to_datetime(total_match_df['start_time'], format='%Y-%m-%d %H:%M:%S')
 
 except Exception as e:
     # generic exception that informs the user what issue arose

@@ -1,0 +1,411 @@
+id,dname,cost,notes,lore,img
+1,Blink Dagger,2250,"Self-casting will cause you to teleport in the direction of your team's fountain.
+If you used Blink to teleport to a distance over the maximum range, you'll be teleported 4/5 of the maximum range instead.",The fabled dagger used by the fastest assassin ever to walk the lands.,https://cdn.dota2.com/apps/dota2/images/items/blink_lg.png
+600,Overwhelming Blink,6800,"Self-casting will cause you to teleport in the direction of your team's fountain.
+If you used Overwhelming Blink to teleport to a distance over the maximum range, you'll be teleported 4/5 of the maximum range instead.",A horrifying dagger forged in the chaos maw and nigh untouchable by mortal hands.,https://cdn.dota2.com/apps/dota2/images/items/overwhelming_blink_lg.png
+603,Swift Blink,6800,"Self-casting will cause you to teleport in the direction of your team's fountain.
+If you used Swift Blink to teleport to a distance over the maximum range, you'll be teleported 4/5 of the maximum range instead.",A cunning blade able to anticipate and enable its bearer's movements.,https://cdn.dota2.com/apps/dota2/images/items/swift_blink_lg.png
+604,Arcane Blink,6800,"Self-casting will cause you to teleport in the direction of your team's fountain.
+If you used Arcane Blink to teleport to a distance over the maximum range, you'll be teleported 4/5 of the maximum range instead.",A revitalizing tool to help bear the weight of arcane expenditure.,https://cdn.dota2.com/apps/dota2/images/items/arcane_blink_lg.png
+606,Arcane Blink Recipe,1750,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+607,Swift Blink Recipe,1750,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+608,Overwhelming Blink Recipe,1750,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+2,Blades of Attack,450,,"The damage of these small, concealable blades should not be underestimated.",https://cdn.dota2.com/apps/dota2/images/items/blades_of_attack_lg.png
+3,Broadsword,1000,,"The classic weapon of choice for knights, this blade is sturdy and reliable for slaying enemies.",https://cdn.dota2.com/apps/dota2/images/items/broadsword_lg.png
+4,Chainmail,550,,A medium weave of metal chains.,https://cdn.dota2.com/apps/dota2/images/items/chainmail_lg.png
+5,Claymore,1350,,"A sword that can cut through armor, it's a commonly chosen first weapon for budding swordsmen.",https://cdn.dota2.com/apps/dota2/images/items/claymore_lg.png
+6,Helm of Iron Will,925,,The helmet of a legendary warrior who fell in battle.,https://cdn.dota2.com/apps/dota2/images/items/helm_of_iron_will_lg.png
+7,Javelin,1100,,A rather typical spear that can sometimes pierce through an enemy's armor when used to attack.,https://cdn.dota2.com/apps/dota2/images/items/javelin_lg.png
+8,Mithril Hammer,1600,,A hammer forged of pure mithril.,https://cdn.dota2.com/apps/dota2/images/items/mithril_hammer_lg.png
+9,Platemail,1400,,Thick metal plates that protect the entire upper body. Avoid dropping on feet.,https://cdn.dota2.com/apps/dota2/images/items/platemail_lg.png
+10,Quarterstaff,875,,A basic staff that allows you to strike quickly.,https://cdn.dota2.com/apps/dota2/images/items/quarterstaff_lg.png
+11,Quelling Blade,130,Effects of multiple quelling blades do not stack.,"The axe of a fallen gnome, it allows you to effectively maneuver the forest.",https://cdn.dota2.com/apps/dota2/images/items/quelling_blade_lg.png
+237,Faerie Fire,70,,The ethereal flames from the ever-burning ruins of Kindertree ignite across realities.,https://cdn.dota2.com/apps/dota2/images/items/faerie_fire_lg.png
+265,Infused Raindrops,225,Uses at most one charge per damage instance.,Elemental protection from magical assaults.,https://cdn.dota2.com/apps/dota2/images/items/infused_raindrop_lg.png
+244,Wind Lace,250,,Hasten to battle on wind-touched heels.,https://cdn.dota2.com/apps/dota2/images/items/wind_lace_lg.png
+12,Ring of Protection,175,,A glimmering ring that defends its bearer.,https://cdn.dota2.com/apps/dota2/images/items/ring_of_protection_lg.png
+182,Stout Shield,100,Multiple sources of damage block do not stack.,One man's wine barrel bottom is another man's shield.,https://cdn.dota2.com/apps/dota2/images/items/stout_shield_lg.png
+247,Moon Shard,4000,The bonus night vision works during Night Stalker's Darkness ability.,Said to be a tear from the lunar goddess Selemene.,https://cdn.dota2.com/apps/dota2/images/items/moon_shard_lg.png
+13,Gauntlets of Strength,140,,Studded leather gloves that add brute strength.,https://cdn.dota2.com/apps/dota2/images/items/gauntlets_lg.png
+14,Slippers of Agility,140,,Light boots made from spider skin that tingles your senses.,https://cdn.dota2.com/apps/dota2/images/items/slippers_lg.png
+15,Mantle of Intelligence,140,,A beautiful sapphire mantle worn by generations of queens.,https://cdn.dota2.com/apps/dota2/images/items/mantle_lg.png
+16,Iron Branch,50,,"A seemingly ordinary branch, its ironlike qualities are bestowed upon the bearer.",https://cdn.dota2.com/apps/dota2/images/items/branches_lg.png
+17,Belt of Strength,450,,A valued accessory for improving vitality.,https://cdn.dota2.com/apps/dota2/images/items/belt_of_strength_lg.png
+18,Band of Elvenskin,450,,A tensile fabric often used for its light weight and ease of movement.,https://cdn.dota2.com/apps/dota2/images/items/boots_of_elves_lg.png
+19,Robe of the Magi,450,,"This robe corrupts the soul of the user, but provides wisdom in return.",https://cdn.dota2.com/apps/dota2/images/items/robe_lg.png
+20,Circlet,155,,An elegant circlet designed for human princesses.,https://cdn.dota2.com/apps/dota2/images/items/circlet_lg.png
+261,Crown,450,,A stately crown created to ensure a well-meaning but ungifted heir could fend off usurpers and govern with a strong hand.,https://cdn.dota2.com/apps/dota2/images/items/crown_lg.png
+21,Ogre Axe,1000,,You grow stronger just by holding it.,https://cdn.dota2.com/apps/dota2/images/items/ogre_axe_lg.png
+22,Blade of Alacrity,1000,,A long blade imbued with time magic.,https://cdn.dota2.com/apps/dota2/images/items/blade_of_alacrity_lg.png
+23,Staff of Wizardry,1000,,A staff of magical powers passed down from the eldest mages.,https://cdn.dota2.com/apps/dota2/images/items/staff_of_wizardry_lg.png
+24,Ultimate Orb,2050,,A mystical orb containing the essence of life.,https://cdn.dota2.com/apps/dota2/images/items/ultimate_orb_lg.png
+25,Gloves of Haste,450,,A pair of magical gloves that seems to render weapons weightless.,https://cdn.dota2.com/apps/dota2/images/items/gloves_lg.png
+485,Blitz Knuckles,1000,,An underground arcanist's update of a back-alley classic.,https://cdn.dota2.com/apps/dota2/images/items/blitz_knuckles_lg.png
+26,Morbid Mask,900,,A mask that drains the energy of those caught in its gaze.,https://cdn.dota2.com/apps/dota2/images/items/lifesteal_lg.png
+473,Voodoo Mask,700,,A mask tuned to sip the arcane bindings that pass between caster and foe.,https://cdn.dota2.com/apps/dota2/images/items/voodoo_mask_lg.png
+27,Ring of Regen,175,,This ring is considered a good luck charm among the Gnomes.,https://cdn.dota2.com/apps/dota2/images/items/ring_of_regen_lg.png
+279,Ring of Tarrasque,650,,An ageless ring forged with an otherwise simple blood magic amplified by the presumed source of its key component.,https://cdn.dota2.com/apps/dota2/images/items/ring_of_tarrasque_lg.png
+28,Sage's Mask,175,,A mask commonly used by mages and warlocks for various rituals.,https://cdn.dota2.com/apps/dota2/images/items/sobi_mask_lg.png
+29,Boots of Speed,500,,"Fleet footwear, increasing movement.",https://cdn.dota2.com/apps/dota2/images/items/boots_lg.png
+30,Gem of True Sight,900,Disabled while on a courier.,"Not one thrall creature of the depths,
+Nor spirit bound in drowning's keep,
+Nor Maelrawn the Tentacular,
+Shall rest till seas, gem comes to sleep.",https://cdn.dota2.com/apps/dota2/images/items/gem_lg.png
+31,Cloak,500,Stacks multiplicatively with other sources of spell resistance.,A cloak made of a magical material that works to dispel any magic cast on it.,https://cdn.dota2.com/apps/dota2/images/items/cloak_lg.png
+32,Talisman of Evasion,1300,Stacks diminishingly with other sources of Evasion.,A necklace that allows you to anticipate enemy attacks.,https://cdn.dota2.com/apps/dota2/images/items/talisman_of_evasion_lg.png
+33,Cheese,1000,Cheese is shareable.,"Made from the milk of a long lost Furbolg vendor, it restores the vitality of those who taste it.",https://cdn.dota2.com/apps/dota2/images/items/cheese_lg.png
+34,Magic Stick,200,"Gains charges for spells cast by visible enemies in 1200 range.
+Certain abilities and item abilities will not add charges.","A simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike.",https://cdn.dota2.com/apps/dota2/images/items/magic_stick_lg.png
+35,Magic Wand Recipe,150,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+36,Magic Wand,450,"Gains charges for spells cast by visible enemies in 1200 range.
+Certain abilities and item abilities will not add charges.","A simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike.",https://cdn.dota2.com/apps/dota2/images/items/magic_wand_lg.png
+37,Ghost Scepter,1500,"Ends if you become Spell Immune, and will have no effect if you are already Spell Immune.
+Shares cooldown with Ethereal Blade.","Imbues the wielder with a ghostly presence, allowing them to evade physical damage.",https://cdn.dota2.com/apps/dota2/images/items/ghost_lg.png
+38,Clarity,50,,Clear water that enhances the ability to meditate.,https://cdn.dota2.com/apps/dota2/images/items/clarity_lg.png
+216,Enchanted Mango,70,Hold Control to use on a nearby allied hero.,The bittersweet flavors of Jidi Isle are irresistible to amphibians.,https://cdn.dota2.com/apps/dota2/images/items/enchanted_mango_lg.png
+39,Healing Salve,110,,A magical salve that can quickly mend even the deepest of wounds.,https://cdn.dota2.com/apps/dota2/images/items/flask_lg.png
+40,Dust of Appearance,80,Places a debuff on enemy units in the area that reveals them when they are invisible.,"One may hide visage, but never volume.",https://cdn.dota2.com/apps/dota2/images/items/dust_lg.png
+41,Bottle,675,"Bottle is shareable. Stored runes cannot be shared.
+If Bottle does not have full charges and is placed on a courier, the courier's movement speed will be slowed by 30%.","An old bottle that survived the ages, the contents placed inside become enchanted.",https://cdn.dota2.com/apps/dota2/images/items/bottle_lg.png
+42,Observer Ward,0,,"A form of half-sentient plant, often cultivated by apprentice wizards.",https://cdn.dota2.com/apps/dota2/images/items/ward_observer_lg.png
+43,Sentry Ward,50,,A form of plant originally grown in the garden of a fearful king.,https://cdn.dota2.com/apps/dota2/images/items/ward_sentry_lg.png
+218,Observer and Sentry Wards,50,Hold Control to give one ward to an allied hero.,Advancements in stacking efficiency have made wards easier to carry than ever.,https://cdn.dota2.com/apps/dota2/images/items/ward_dispenser_lg.png
+44,Tango,90,,Forage to survive on the battlefield.,https://cdn.dota2.com/apps/dota2/images/items/tango_lg.png
+241,Tango (Shared),30,,Om nom nom.,https://cdn.dota2.com/apps/dota2/images/items/tango_single_lg.png
+45,Animal Courier,50,,Losing the courier is punishable by death.,https://cdn.dota2.com/apps/dota2/images/items/courier_lg.png
+286,Flying Courier,100,,The faithful mount upon which soar the fortunes of battle.,https://cdn.dota2.com/apps/dota2/images/items/flying_courier_lg.png
+46,Town Portal Scroll,100,"If multiple heroes teleport to the same location in succession, the channeling time will be increased for each successive hero.
+Teleport can be prevented or canceled by Root abilities.",What a hero truly needs.,https://cdn.dota2.com/apps/dota2/images/items/tpscroll_lg.png
+47,Boots of Travel Recipe,2000,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+48,Boots of Travel,2500,,Winged boots that grant omnipresence.,https://cdn.dota2.com/apps/dota2/images/items/travel_boots_lg.png
+220,Boots of Travel 2,4500,,Winged boots that grant omnipresence.,https://cdn.dota2.com/apps/dota2/images/items/travel_boots_2_lg.png
+50,Phase Boots,1500,,Boots that allow the wearer to travel between the ether.,https://cdn.dota2.com/apps/dota2/images/items/phase_boots_lg.png
+51,Demon Edge,2200,,"One of the oldest weapons forged by the Demon-Smith Abzidian, it killed its maker when he tested its edge.",https://cdn.dota2.com/apps/dota2/images/items/demon_edge_lg.png
+52,Eaglesong,2800,,"Capturing the majestic call of an eagle, this mystical horn brings limitless dexterity to those who hear it.",https://cdn.dota2.com/apps/dota2/images/items/eagle_lg.png
+53,Reaver,2800,,A massive axe capable of tearing whole mountains down.,https://cdn.dota2.com/apps/dota2/images/items/reaver_lg.png
+54,Sacred Relic,3800,,An ancient weapon that often turns the tides of war.,https://cdn.dota2.com/apps/dota2/images/items/relic_lg.png
+55,Hyperstone,2000,,"A mystical, carved stone that boosts the fervor of the holder.",https://cdn.dota2.com/apps/dota2/images/items/hyperstone_lg.png
+56,Ring of Health,825,,A shiny ring found beneath a fat halfling's corpse.,https://cdn.dota2.com/apps/dota2/images/items/ring_of_health_lg.png
+57,Void Stone,825,,"Jewelry that was once used to channel nether realm magic, this ring pulses with energy.",https://cdn.dota2.com/apps/dota2/images/items/void_stone_lg.png
+58,Mystic Staff,2800,,Enigmatic staff made of only the most expensive crystals.,https://cdn.dota2.com/apps/dota2/images/items/mystic_staff_lg.png
+59,Energy Booster,800,,This lapis gemstone is commonly added to the collection of wizards seeking to improve their presence in combat.,https://cdn.dota2.com/apps/dota2/images/items/energy_booster_lg.png
+60,Point Booster,1200,,A perfectly formed amethyst that nourishes body and mind when held.,https://cdn.dota2.com/apps/dota2/images/items/point_booster_lg.png
+61,Vitality Booster,1000,,A ruby gemstone that has been passed down through generations of warrior kin.,https://cdn.dota2.com/apps/dota2/images/items/vitality_booster_lg.png
+593,Fluffy Hat,250,,Fine and functional foppery for the fashion-forward fighter.,https://cdn.dota2.com/apps/dota2/images/items/fluffy_hat_lg.png
+63,Power Treads,1400,"Power Treads can be built using a Belt of Strength, Band of Elvenskin, or a Robe of the Magi.",A pair of tough-skinned boots that change to meet the demands of the wearer.,https://cdn.dota2.com/apps/dota2/images/items/power_treads_lg.png
+655,Grandmaster's Glaive,5000,,,https://cdn.dota2.com/apps/dota2/images/items/grandmasters_glaive_lg.png
+64,Hand of Midas Recipe,1750,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+65,Hand of Midas,2200,"The gold given is reliable gold (you do not get the normal creep bounty).
+Experience gained by using Transmute is not shared.","Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets.",https://cdn.dota2.com/apps/dota2/images/items/hand_of_midas_lg.png
+67,Oblivion Staff,1500,,"Deceptively hidden as an ordinary staff, it is actually very powerful, much like the Eldritch who originally possessed it.",https://cdn.dota2.com/apps/dota2/images/items/oblivion_staff_lg.png
+533,Witch Blade Recipe,600,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+534,Witch Blade,2600,,A spiteful blade inadvertently possessed by the soul of its incautious creator.,https://cdn.dota2.com/apps/dota2/images/items/witch_blade_lg.png
+69,Perseverance,1650,,A gem that grants heart to the bearer.,https://cdn.dota2.com/apps/dota2/images/items/pers_lg.png
+71,Poor Man's Shield,0,Multiple sources of damage block do not stack.,A busted old shield that seems to block more than it should.,https://cdn.dota2.com/apps/dota2/images/items/poor_mans_shield_lg.png
+731,Satchel,0,,,https://cdn.dota2.com/apps/dota2/images/items/satchel_lg.png
+72,Bracer Recipe,210,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+73,Bracer,505,,The bracer is a common choice to toughen up defenses and increase longevity.,https://cdn.dota2.com/apps/dota2/images/items/bracer_lg.png
+74,Wraith Band Recipe,210,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+75,Wraith Band,505,,A circlet with faint whispers echoing about it.,https://cdn.dota2.com/apps/dota2/images/items/wraith_band_lg.png
+76,Null Talisman Recipe,210,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+77,Null Talisman,505,,A small gemstone attached to several chains.,https://cdn.dota2.com/apps/dota2/images/items/null_talisman_lg.png
+78,Mekansm Recipe,900,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+79,Mekansm,1875,"Restore does not affect units that have been affected by Restore in the last 25 seconds.
+Multiple instances of Mekansm Aura do not stack.",A glowing jewel formed out of assorted parts that somehow fit together perfectly.,https://cdn.dota2.com/apps/dota2/images/items/mekansm_lg.png
+80,Vladmir's Offering Recipe,500,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+81,Vladmir's Offering,2700,,An eerie mask that is haunted with the malice of a fallen vampire.,https://cdn.dota2.com/apps/dota2/images/items/vladmir_lg.png
+85,Buckler Recipe,250,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+86,Buckler,425,,"A powerful shield that imbues the bearer with the strength of heroes past, it is capable of protecting entire armies in battle.",https://cdn.dota2.com/apps/dota2/images/items/buckler_lg.png
+87,Ring of Basilius Recipe,250,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+88,Ring of Basilius,425,,Ring given as a reward to the greatest mages.,https://cdn.dota2.com/apps/dota2/images/items/ring_of_basilius_lg.png
+268,Holy Locket Recipe,475,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+269,Holy Locket,2400,,A prized relic long thought lost forever in a failed crusade.,https://cdn.dota2.com/apps/dota2/images/items/holy_locket_lg.png
+89,Pipe of Insight Recipe,1550,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+90,Pipe of Insight,3475,"Multiple instances of Barrier do not stack.
+Stacks multiplicatively with other sources of magic resistance.","A powerful artifact of mysterious origin, it creates barriers against magical forces.",https://cdn.dota2.com/apps/dota2/images/items/pipe_lg.png
+91,Urn of Shadows Recipe,335,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+92,Urn of Shadows,840,"Empty urns gain 2 charges.
+If used on a hero with Soul Release already active on them, it will refresh its duration.",Contains the ashes of powerful demons.,https://cdn.dota2.com/apps/dota2/images/items/urn_of_shadows_lg.png
+93,Headdress Recipe,250,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+94,Headdress,425,,Creates a soothing aura that restores allies in battle.,https://cdn.dota2.com/apps/dota2/images/items/headdress_lg.png
+96,Scythe of Vyse,5675,"The target will have a base movement speed of %sheep_movement_speed%, but buffs granting maximum movement speed won't be disabled.","The most guarded relic among the cult of Vyse, it is the most coveted weapon among magi.",https://cdn.dota2.com/apps/dota2/images/items/sheepstick_lg.png
+97,Orchid Malevolence Recipe,475,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+98,Orchid Malevolence,3475,,A garnet rod constructed from the essence of a fire demon.,https://cdn.dota2.com/apps/dota2/images/items/orchid_lg.png
+245,Bloodthorn Recipe,800,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+250,Bloodthorn,6275,Critical Strike does not work against buildings.,A reviled blade that bites deeper with each wriggle of its victim's final throes.,https://cdn.dota2.com/apps/dota2/images/items/bloodthorn_lg.png
+252,Echo Sabre,2500,,A deceptively swift blade imbued with resonant magic.,https://cdn.dota2.com/apps/dota2/images/items/echo_sabre_lg.png
+99,Eul's Scepter Recipe,650,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+100,Eul's Scepter of Divinity,2725,"You cannot cyclone allies.
+Cyclones cast on yourself go through spell immunity.
+Cyclone can purge some buffs and debuffs.","A mysterious scepter passed down through the ages, its disruptive winds can be used for good or evil.",https://cdn.dota2.com/apps/dota2/images/items/cyclone_lg.png
+612,Wind Waker Recipe,1600,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+610,Wind Waker,7125,"Cyclone can purge some buffs and debuffs.
+When cast on yourself, the cyclone can be moved anywhere at a speed of 360.",Proof enough to some that unseen forces manipulate the happenings of the material plane.,https://cdn.dota2.com/apps/dota2/images/items/wind_waker_lg.png
+233,Aether Lens Recipe,650,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+232,Aether Lens,2275,Passive does not stack.,"Polished with the incantation of his final breath, the gift of a dying mage to his sickly son.",https://cdn.dota2.com/apps/dota2/images/items/aether_lens_lg.png
+101,Force Staff Recipe,950,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+102,Force Staff,2200,"Self-cast will cause you to use Force on yourself.
+Force Staff doesn't interrupt the target's actions.
+Will not work on a unit inside Chronosphere, Duel, or Black Hole.","Allows you to manipulate others, for good or evil.",https://cdn.dota2.com/apps/dota2/images/items/force_staff_lg.png
+262,Hurricane Pike Recipe,450,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+263,Hurricane Pike,4550,"Self-cast will use Hurricane Pike on yourself.
+Hurricane Pike doesn't interrupt the target's actions.
+Will not work on a unit inside Chronosphere, Duel, or Black Hole.",A legendary pike once held as royal sigil of the ancient wyvern riders.,https://cdn.dota2.com/apps/dota2/images/items/hurricane_pike_lg.png
+103,Dagon Recipe,1250,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+104,Dagon,2700,Instantly kills illusions.,"A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",https://cdn.dota2.com/apps/dota2/images/items/dagon_lg.png
+201,Dagon,3950,Instantly kills illusions.,"A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",https://cdn.dota2.com/apps/dota2/images/items/dagon_2_lg.png
+202,Dagon,5200,Instantly kills illusions.,"A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",https://cdn.dota2.com/apps/dota2/images/items/dagon_3_lg.png
+203,Dagon,6450,Instantly kills illusions.,"A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",https://cdn.dota2.com/apps/dota2/images/items/dagon_4_lg.png
+204,Dagon,7700,Instantly kills illusions.,"A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",https://cdn.dota2.com/apps/dota2/images/items/dagon_5_lg.png
+105,Necronomicon Recipe,1250,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+106,Necronomicon,2050,,"Considered the ultimate in necromancy and demonology, a powerful malefic force is locked within its pages.",https://cdn.dota2.com/apps/dota2/images/items/necronomicon_lg.png
+193,Necronomicon,3300,,"Considered the ultimate in necromancy and demonology, a powerful malefic force is locked within its pages.",https://cdn.dota2.com/apps/dota2/images/items/necronomicon_2_lg.png
+194,Necronomicon,4550,,"Considered the ultimate in necromancy and demonology, a powerful malefic force is locked within its pages.",https://cdn.dota2.com/apps/dota2/images/items/necronomicon_3_lg.png
+108,Aghanim's Scepter,4200,,The scepter of a wizard with demigod-like powers.,https://cdn.dota2.com/apps/dota2/images/items/ultimate_scepter_lg.png
+270,Aghanim's Blessing Recipe,1600,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+271,Aghanim's Blessing,5800,,The scepter of a wizard with demigod-like powers.,https://cdn.dota2.com/apps/dota2/images/items/ultimate_scepter_2_lg.png
+727,Aghanim's Blessing - Roshan,5800,,The scepter of a wizard with demigod-like powers.,https://cdn.dota2.com/apps/dota2/images/items/ultimate_scepter_roshan_lg.png
+609,Aghanim's Shard,1400,,"With origins known only to a single wizard, fragments of this impossible crystal are nearly as coveted as the renowned scepter itself.",https://cdn.dota2.com/apps/dota2/images/items/aghanims_shard_lg.png
+725,Aghanim's Shard - Roshan,1400,,"With origins known only to a single wizard, fragments of this impossible crystal are nearly as coveted as the renowned scepter itself.",https://cdn.dota2.com/apps/dota2/images/items/aghanims_shard_roshan_lg.png
+109,Refresher Orb Recipe,1700,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+110,Refresher Orb,5000,,A powerful artifact created for wizards.,https://cdn.dota2.com/apps/dota2/images/items/refresher_lg.png
+111,Assault Cuirass Recipe,1300,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+112,Assault Cuirass,5125,,"Forged in the depths of the nether reaches, this hellish mail provides an army with increased armor and attack speed.",https://cdn.dota2.com/apps/dota2/images/items/assault_lg.png
+113,Heart of Tarrasque Recipe,1300,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+114,Heart of Tarrasque,5100,,"Preserved heart of an extinct monster, it bolsters the bearer's fortitude.",https://cdn.dota2.com/apps/dota2/images/items/heart_lg.png
+115,Black King Bar Recipe,1450,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+116,Black King Bar,4050,"Purchasing another Black King Bar will not reset its immunity duration.
+Using Black King Bar may remove some positive buffs.",A powerful staff imbued with the strength of giants.,https://cdn.dota2.com/apps/dota2/images/items/black_king_bar_lg.png
+117,Aegis of the Immortal,0,Pronounced as ayy jis.,The Immortal was said to own a shield that protected him from death itself.,https://cdn.dota2.com/apps/dota2/images/items/aegis_lg.png
+118,Shiva's Guard Recipe,650,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+119,Shiva's Guard,4850,"The wave extends at a speed of %blast_speed% to a max size of %blast_radius%.
+The Arctic Blast follows its caster.
+Multiple instances of Freezing Aura do not stack.","Said to have belonged to a goddess, today it retains much of its former power.",https://cdn.dota2.com/apps/dota2/images/items/shivas_guard_lg.png
+121,Bloodstone,5750,,"The Bloodstone's bright ruby color is unmistakable on the battlefield, as the owner seems to have infinite vitality and spirit.",https://cdn.dota2.com/apps/dota2/images/items/bloodstone_lg.png
+122,Linken's Sphere Recipe,900,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+123,Linken's Sphere,4600,,This magical sphere once protected one of the most famous heroes in history.,https://cdn.dota2.com/apps/dota2/images/items/sphere_lg.png
+226,Lotus Orb,3850,,The jewel at its center still reflects a pale image of its creator.,https://cdn.dota2.com/apps/dota2/images/items/lotus_orb_lg.png
+222,,250,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+223,Meteor Hammer,2350,,,https://cdn.dota2.com/apps/dota2/images/items/meteor_hammer_lg.png
+225,Nullifier,4725,,,https://cdn.dota2.com/apps/dota2/images/items/nullifier_lg.png
+255,Aeon Disk Recipe,1200,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+256,Aeon Disk,3000,,,https://cdn.dota2.com/apps/dota2/images/items/aeon_disk_lg.png
+258,Kaya Recipe,600,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+259,Kaya,2050,,,https://cdn.dota2.com/apps/dota2/images/items/kaya_lg.png
+369,Trident,0,,,https://cdn.dota2.com/apps/dota2/images/items/trident_lg.png
+276,,,,,https://cdn.dota2.com/apps/dota2/images/items/combo_breaker_lg.png
+260,Refresher Shard,1000,Refresher Shard is shareable.,,https://cdn.dota2.com/apps/dota2/images/items/refresher_shard_lg.png
+266,Spirit Vessel Recipe,1000,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+267,Spirit Vessel,2840,,,https://cdn.dota2.com/apps/dota2/images/items/spirit_vessel_lg.png
+125,Vanguard,1825,Multiple sources of damage block do not stack.,A powerful shield that defends its wielder from even the most vicious of attacks.,https://cdn.dota2.com/apps/dota2/images/items/vanguard_lg.png
+243,Crimson Guard Recipe,950,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+242,Crimson Guard,3700,Multiple sources of damage block do not stack.,A cuirass originally built to protect against the dreaded Year Beast.,https://cdn.dota2.com/apps/dota2/images/items/crimson_guard_lg.png
+126,Blade Mail Recipe,575,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+127,Blade Mail,2125,"Damage Return is calculated before any kind of reduction.
+Damage Return doesn't reflect damage from other forms of Blade Mail.
+Returned damage type is the same as it was received.","A razor-sharp coat of mail, it is the choice of selfless martyrs in combat.",https://cdn.dota2.com/apps/dota2/images/items/blade_mail_lg.png
+129,Soul Booster,3000,,Regain lost courage.,https://cdn.dota2.com/apps/dota2/images/items/soul_booster_lg.png
+130,,,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+131,Hood of Defiance,1500,Stacks multiplicatively with other sources of spell resistance.,"A furred, magic resistant headpiece that is feared by wizards.",https://cdn.dota2.com/apps/dota2/images/items/hood_of_defiance_lg.png
+691,Eternal Shroud Recipe,1100,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+692,Eternal Shroud,3300,,A pristine hood that feeds upon strife to empower its owner.,https://cdn.dota2.com/apps/dota2/images/items/eternal_shroud_lg.png
+133,Divine Rapier,6000,"If Divine Rapier is dropped and picked up by an enemy of its original owner, it cannot be dropped again except by death.","So powerful, it cannot have a single owner.",https://cdn.dota2.com/apps/dota2/images/items/rapier_lg.png
+134,Monkey King Bar Recipe,675,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+135,Monkey King Bar,4975,,A powerful staff used by a master warrior.,https://cdn.dota2.com/apps/dota2/images/items/monkey_king_bar_lg.png
+136,Radiance Recipe,1350,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+137,Radiance,5150,,A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies.,https://cdn.dota2.com/apps/dota2/images/items/radiance_lg.png
+139,Butterfly,4975,Stacks diminishingly with other sources of Evasion.,"Only the mightiest and most experienced of warriors can wield the Butterfly, but it provides incredible dexterity in combat.",https://cdn.dota2.com/apps/dota2/images/items/butterfly_lg.png
+140,Daedalus Recipe,1000,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+141,Daedalus,5150,Critical Strike does not work against buildings.,A weapon of incredible power that is difficult for even the strongest of warriors to control.,https://cdn.dota2.com/apps/dota2/images/items/greater_crit_lg.png
+142,Skull Basher Recipe,900,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+143,Skull Basher,2950,"Does not stack with other sources of Bash, however it will stack with Mini-Bash.
+The following heroes cannot trigger Bash on this item: Spirit Breaker, Faceless Void, and Slardar.","A feared weapon in the right hands, this maul's ability to shatter the defenses of its opponents should not be underestimated.",https://cdn.dota2.com/apps/dota2/images/items/basher_lg.png
+145,Battle Fury,4130,"Cleave damage goes through spell immunity.
+If multiple sources of Cleave are present, each Cleave's damage is applied separately.",The bearer of this mighty axe gains the ability to cut down swaths of enemies at once.,https://cdn.dota2.com/apps/dota2/images/items/bfury_lg.png
+146,Manta Style Recipe,500,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+147,Manta Style,4600,"Has a %invuln_duration% second cast time during which you are invulnerable.
+Many effects are removed upon using Manta.
+Yasha based movement speed bonuses from multiple items do not stack.",An axe made of reflective materials that causes confusion amongst enemy ranks.,https://cdn.dota2.com/apps/dota2/images/items/manta_lg.png
+148,Crystalys Recipe,500,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+149,Crystalys,1950,Critical Strike does not work against buildings.,"A blade forged from rare crystals, it seeks weak points in enemy armor.",https://cdn.dota2.com/apps/dota2/images/items/lesser_crit_lg.png
+236,Dragon Lance,1900,Passive does not stack.,The forward charge of the wyvern host grants no quarter.,https://cdn.dota2.com/apps/dota2/images/items/dragon_lance_lg.png
+150,Armlet of Mordiggian Recipe,650,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+151,Armlet of Mordiggian,2475,"The strength change will affect both maximum and current HP, but you cannot die from the change.
+The strength change occurs over 0.6 seconds.
+Activating or deactivating Unholy Strength does not interrupt channeling.","Weapon of choice among brutes, the bearer sacrifices his life energy to gain immense strength and power.",https://cdn.dota2.com/apps/dota2/images/items/armlet_lg.png
+152,Shadow Blade,3000,"Has a %windwalk_fade_time% second fade time.
+If the invisibility ends without attacking, the bonus damage is lost.","The blade of a fallen king, it allows you to move unseen and strike from the shadows.",https://cdn.dota2.com/apps/dota2/images/items/invis_sword_lg.png
+248,Silver Edge Recipe,1100,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+249,Silver Edge,5600,"Backstab cannot miss.
+Backstab does not pierce spell immunity.","Once used to slay an unjust king, only to have the kingdom erupt into civil war in the aftermath.",https://cdn.dota2.com/apps/dota2/images/items/silver_edge_lg.png
+154,Sange and Yasha,4100,Yasha-based movement speed bonuses from multiple items do not stack.,"Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination.",https://cdn.dota2.com/apps/dota2/images/items/sange_and_yasha_lg.png
+273,Kaya and Sange,4100,,Two of three known items of unimaginable power that many believe were crafted at the same enchanter's forge.,https://cdn.dota2.com/apps/dota2/images/items/kaya_and_sange_lg.png
+277,Yasha and Kaya,4100,,Yasha and Kaya when paired together share a natural resonance.,https://cdn.dota2.com/apps/dota2/images/items/yasha_and_kaya_lg.png
+156,Satanic,5050,,Immense power at the cost of your soul.,https://cdn.dota2.com/apps/dota2/images/items/satanic_lg.png
+157,Mjollnir Recipe,900,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+158,Mjollnir,5600,"Static Charge cannot trigger more than once per second.
+Static Charge's shock deals magical damage centered on hero with the Static Charge. Static Charge's targets cannot be more than %static_seconary_radius% range away.
+Static Charge procs will not bounce to heroes that are invisible or hidden by Fog of War.","Thor's magical hammer, made for him by the dwarves Brok and Eitri.",https://cdn.dota2.com/apps/dota2/images/items/mjollnir_lg.png
+160,Eye of Skadi,5300,,"Extremely rare artifact, guarded by the azure dragons.",https://cdn.dota2.com/apps/dota2/images/items/skadi_lg.png
+161,Sange Recipe,600,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+162,Sange,2050,,"Sange is an unusually accurate weapon, seeking weak points automatically.",https://cdn.dota2.com/apps/dota2/images/items/sange_lg.png
+163,Helm of the Dominator Recipe,975,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+164,Helm of the Dominator,2350,"Cannot dominate more than one unit at a time.  If a new unit is dominated, the old one will die.
+Can also Dominate enemy lane creeps and summoned units.
+Selling Helm of the Dominator will cause dominated units to die.",The powerful headpiece of a dead necromancer.,https://cdn.dota2.com/apps/dota2/images/items/helm_of_the_dominator_lg.png
+633,Helm of the Overlord Recipe,1600,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+635,Helm of the Overlord,6000,"Can dominate up to two at a time. 
+Can also Dominate enemy lane creeps and summoned units.
+Selling will cause dominated units to die.",The powerful headpiece of a dead necromancer.,https://cdn.dota2.com/apps/dota2/images/items/helm_of_the_overlord_lg.png
+166,Maelstrom,2700,,"A hammer forged for the gods themselves, Maelstrom allows its user to harness the power of lightning.",https://cdn.dota2.com/apps/dota2/images/items/maelstrom_lg.png
+1565,Gleipnir Recipe,700,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+1466,Gleipnir,6150,,Bindings forged by impossible means to leash an ancient evil.,https://cdn.dota2.com/apps/dota2/images/items/gungir_lg.png
+168,Desolator,3500,Armor reduction works on buildings.,"A wicked weapon, used in torturing political criminals.",https://cdn.dota2.com/apps/dota2/images/items/desolator_lg.png
+169,Yasha Recipe,600,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+170,Yasha,2050,Yasha-based movement speed bonuses from multiple items do not stack.,Yasha is regarded as the swiftest weapon ever created.,https://cdn.dota2.com/apps/dota2/images/items/yasha_lg.png
+172,Mask of Madness,1775,,"Once this mask is worn, its bearer becomes an uncontrollable aggressive force.",https://cdn.dota2.com/apps/dota2/images/items/mask_of_madness_lg.png
+173,Diffusal Blade Recipe,700,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+174,Diffusal Blade,3150,Does not stack with other manabreak abilities.,An enchanted blade that allows the user to cut straight into the enemy's soul.,https://cdn.dota2.com/apps/dota2/images/items/diffusal_blade_lg.png
+176,Ethereal Blade,4300,"Shares cooldown with Ghost Scepter.
+Ethereal units take 40% bonus magic damage.
+Lasts an extra second on Self or Allied cast.
+Using a Town Portal Scroll or Boots of Travel will not dispel Ethereal Form.","A flickering blade of a ghastly nature, it is capable of dealing damage in both magical and physical planes.",https://cdn.dota2.com/apps/dota2/images/items/ethereal_blade_lg.png
+177,Soul Ring Recipe,225,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+178,Soul Ring,680,"If this mana is not used before the duration ends, the extra mana is lost.",A ring that feeds on the souls of those who wear it.,https://cdn.dota2.com/apps/dota2/images/items/soul_ring_lg.png
+180,Arcane Boots,1300,Does not work on Meepo clones.,Magi equipped with these boots are valued in battle.,https://cdn.dota2.com/apps/dota2/images/items/arcane_boots_lg.png
+235,Octarine Core,5275,,At the core of spellcraft are spectrums only the very gifted can sense.,https://cdn.dota2.com/apps/dota2/images/items/octarine_core_lg.png
+181,Orb of Venom,275,Does not stack with its upgrades.,Envenoms your veapon with the venom of a venomous viper.,https://cdn.dota2.com/apps/dota2/images/items/orb_of_venom_lg.png
+240,Blight Stone,300,Does not stack with its upgrades.,An unnerving stone unearthed beneath the Fields of Endless Carnage.,https://cdn.dota2.com/apps/dota2/images/items/blight_stone_lg.png
+640,Orb of Corrosion Recipe,100,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+569,Orb of Corrosion,925,,"Seepage from the wounds of a warrior deity, sealed in an arcanist's orb following a campaign of vicious slaughter.",https://cdn.dota2.com/apps/dota2/images/items/orb_of_corrosion_lg.png
+599,Falcon Blade Recipe,225,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+596,Falcon Blade,1100,,An enchanted blade that long ago raised a hopeless urchin from pauper to king.,https://cdn.dota2.com/apps/dota2/images/items/falcon_blade_lg.png
+597,Mage Slayer Recipe,400,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+598,Mage Slayer,3250,,Forged by a secret order in The Third Age of Praxa'cia to fell the False King.,https://cdn.dota2.com/apps/dota2/images/items/mage_slayer_lg.png
+184,Drum of Endurance Recipe,550,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+185,Drum of Endurance,1700,,A relic that enchants the bodies of those around it for swifter movement in times of crisis.,https://cdn.dota2.com/apps/dota2/images/items/ancient_janggo_lg.png
+187,Medallion of Courage,1025,,The bearer has no fear of combat.,https://cdn.dota2.com/apps/dota2/images/items/medallion_of_courage_lg.png
+227,Solar Crest Recipe,900,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+229,Solar Crest,2625,,A talisman forged to honor the daytime sky.,https://cdn.dota2.com/apps/dota2/images/items/solar_crest_lg.png
+188,Smoke of Deceit,50,,The charlatan wizard Myrddin's only true contribution to the arcane arts.,https://cdn.dota2.com/apps/dota2/images/items/smoke_of_deceit_lg.png
+257,Tome of Knowledge,75,,That which raises beast to man and man to god.,https://cdn.dota2.com/apps/dota2/images/items/tome_of_knowledge_lg.png
+189,Veil of Discord Recipe,650,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+190,Veil of Discord,1525,,The headwear of corrupt magi.,https://cdn.dota2.com/apps/dota2/images/items/veil_of_discord_lg.png
+230,Guardian Greaves Recipe,1600,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+231,Guardian Greaves,5200,The aura boost only applies to heroes.,One of many holy instruments constructed to honor the Omniscience.,https://cdn.dota2.com/apps/dota2/images/items/guardian_greaves_lg.png
+205,Rod of Atos Recipe,850,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+206,Rod of Atos,2750,,"Atos, the Lord of Blight, has his essence stored in this deceptively simple wand.",https://cdn.dota2.com/apps/dota2/images/items/rod_of_atos_lg.png
+238,Iron Talon Recipe,125,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+239,Iron Talon,301,Has a 4 second cooldown on Trees.,A simple but effective weapon devised to quell a great Hellbear uprising.,https://cdn.dota2.com/apps/dota2/images/items/iron_talon_lg.png
+207,Abyssal Blade Recipe,1550,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+208,Abyssal Blade,6325,"The stun is melee range.
+Does not stack with other bashes.
+Multiple sources of damage block do not stack.","The lost blade of the Commander of the Abyss, this edge cuts into an enemy's soul.",https://cdn.dota2.com/apps/dota2/images/items/abyssal_blade_lg.png
+209,Heaven's Halberd Recipe,200,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+210,Heaven's Halberd,3550,,"This halberd moves with the speed of a smaller weapon, allowing the bearer to win duels that a heavy edge would not.",https://cdn.dota2.com/apps/dota2/images/items/heavens_halberd_lg.png
+212,Ring of Aquila,0,"Does not stack with armor auras from Ring of Basilius or Ring of Aquila.
+Multiple instances of Aquila Aura do not stack.",The ring of the fallen Warlord Aquila continues to support armies in battle.,https://cdn.dota2.com/apps/dota2/images/items/ring_of_aquila_lg.png
+214,Tranquil Boots,925,,"While they increase the longevity of the wearer, this boot is not particularly reliable.",https://cdn.dota2.com/apps/dota2/images/items/tranquil_boots_lg.png
+215,Shadow Amulet,1000,,A small talisman that clouds the senses of one's enemies when held perfectly still.,https://cdn.dota2.com/apps/dota2/images/items/shadow_amulet_lg.png
+253,Glimmer Cape Recipe,450,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+254,Glimmer Cape,1950,,The stolen cape of a master illusionist.,https://cdn.dota2.com/apps/dota2/images/items/glimmer_cape_lg.png
+1021,River Vial: Chrome,0,,,https://cdn.dota2.com/apps/dota2/images/items/river_painter_lg.png
+1022,River Vial: Dry,0,,,https://cdn.dota2.com/apps/dota2/images/items/river_painter2_lg.png
+1023,River Vial: Slime,0,,,https://cdn.dota2.com/apps/dota2/images/items/river_painter3_lg.png
+1024,River Vial: Oil,0,,,https://cdn.dota2.com/apps/dota2/images/items/river_painter4_lg.png
+1025,River Vial: Electrified,0,,,https://cdn.dota2.com/apps/dota2/images/items/river_painter5_lg.png
+1026,River Vial: Potion,0,,,https://cdn.dota2.com/apps/dota2/images/items/river_painter6_lg.png
+1027,River Vial: Blood,0,,,https://cdn.dota2.com/apps/dota2/images/items/river_painter7_lg.png
+1028,Tombstone,0,,,https://cdn.dota2.com/apps/dota2/images/items/mutation_tombstone_lg.png
+1029,Super Blink Dagger,,,The fabled dagger used by the fastest assassin ever to walk the lands.,https://cdn.dota2.com/apps/dota2/images/items/super_blink_lg.png
+1030,Pocket Tower,,,,https://cdn.dota2.com/apps/dota2/images/items/pocket_tower_lg.png
+1032,Pocket Roshan,1000,,,https://cdn.dota2.com/apps/dota2/images/items/pocket_roshan_lg.png
+287,Keen Optic,0,,"Stolen from a tinker's shop ages ago, this handy lens has seen service to many owners.",https://cdn.dota2.com/apps/dota2/images/items/keen_optic_lg.png
+288,Grove Bow,0,,A gift from the moon goddess to one of her prized disciples many memories ago.,https://cdn.dota2.com/apps/dota2/images/items/grove_bow_lg.png
+289,Quickening Charm,0,,An evergreen amulet of druidic origins.,https://cdn.dota2.com/apps/dota2/images/items/quickening_charm_lg.png
+290,Philosopher's Stone,0,,A weightless charm created by an enchanter with a powerful scorn for brute force.,https://cdn.dota2.com/apps/dota2/images/items/philosophers_stone_lg.png
+291,Force Boots,0,,Elusive marvels never successfully studied for proper classification in the archives.,https://cdn.dota2.com/apps/dota2/images/items/force_boots_lg.png
+292,Stygian Desolator,0,Armor reduction works on buildings.,The original demonic favorite that served as basis for the beloved mortal design.,https://cdn.dota2.com/apps/dota2/images/items/desolator_2_lg.png
+293,Phoenix Ash,0,,,https://cdn.dota2.com/apps/dota2/images/items/phoenix_ash_lg.png
+294,Seer Stone,0,,The curious creation of a wizard who professed to hail from another time.,https://cdn.dota2.com/apps/dota2/images/items/seer_stone_lg.png
+295,Greater Mango,0,,,https://cdn.dota2.com/apps/dota2/images/items/greater_mango_lg.png
+302,Elixir,0,,,https://cdn.dota2.com/apps/dota2/images/items/elixer_lg.png
+297,Vampire Fangs,0,,,https://cdn.dota2.com/apps/dota2/images/items/vampire_fangs_lg.png
+298,Craggy Coat,0,,,https://cdn.dota2.com/apps/dota2/images/items/craggy_coat_lg.png
+299,Greater Faerie Fire,0,,,https://cdn.dota2.com/apps/dota2/images/items/greater_faerie_fire_lg.png
+300,Timeless Relic,0,,An unmarred discovery from the excavated ruins of an ancient wizard's academy.,https://cdn.dota2.com/apps/dota2/images/items/timeless_relic_lg.png
+301,Mirror Shield,0,,The shield that long ago robbed the old one of his first memories.,https://cdn.dota2.com/apps/dota2/images/items/mirror_shield_lg.png
+303,Ironwood Tree Recipe,1,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+304,Ironwood Tree,151,,Precious. And hearty as a weed.,https://cdn.dota2.com/apps/dota2/images/items/ironwood_tree_lg.png
+328,Mango Tree,,,,https://cdn.dota2.com/apps/dota2/images/items/mango_tree_lg.png
+305,Royal Jelly,0,,"To those who harvest olgru jelly, success serves more than mere profit--it's often the means to survival--for only the jelly itself can cure the ravages that follow a sting from the vigilant denizens of the giant hives.",https://cdn.dota2.com/apps/dota2/images/items/royal_jelly_lg.png
+306,Pupil's Gift,0,,"An astounding plate of ever-replenishing, fortifying fruit.",https://cdn.dota2.com/apps/dota2/images/items/pupils_gift_lg.png
+307,Tome of Aghanim,0,,,https://cdn.dota2.com/apps/dota2/images/items/tome_of_aghanim_lg.png
+308,Repair Kit,0,,,https://cdn.dota2.com/apps/dota2/images/items/repair_kit_lg.png
+309,Mind Breaker,0,,A bewitching blade of indeterminate form capable of piercing the psyche of even the most willful foe.,https://cdn.dota2.com/apps/dota2/images/items/mind_breaker_lg.png
+310,Third Eye,0,,,https://cdn.dota2.com/apps/dota2/images/items/third_eye_lg.png
+311,Spell Prism,0,,Even the slightest flaw in the components of a spell prism can result in the death of its user.,https://cdn.dota2.com/apps/dota2/images/items/spell_prism_lg.png
+325,Prince's Knife,0,,,https://cdn.dota2.com/apps/dota2/images/items/princes_knife_lg.png
+330,Witless Shako,0,,,https://cdn.dota2.com/apps/dota2/images/items/witless_shako_lg.png
+334,Imp Claw,0,,"Though their tasks are largely thankless, demon hunters can often turn a profit bartering parts in Weeping Rose.",https://cdn.dota2.com/apps/dota2/images/items/imp_claw_lg.png
+335,Flicker,0,,The technically-true-to-his-word 'teleportation device' crafted by a notorious fae trickster.,https://cdn.dota2.com/apps/dota2/images/items/flicker_lg.png
+336,Telescope,0,,A handy tool that manages to make close what once was far.,https://cdn.dota2.com/apps/dota2/images/items/spy_gadget_lg.png
+326,Spider Legs,0,,A horrifying yet useful mixture of necromancy and artificing.,https://cdn.dota2.com/apps/dota2/images/items/spider_legs_lg.png
+327,Helm of the Undying,0,,,https://cdn.dota2.com/apps/dota2/images/items/helm_of_the_undying_lg.png
+331,Vambrace,0,,"The coveted treasure that divided the heirs of Queen Raiya upon her death, resulting in the eventual downfall of her kingdom.",https://cdn.dota2.com/apps/dota2/images/items/vambrace_lg.png
+312,Horizon,0,,,https://cdn.dota2.com/apps/dota2/images/items/horizon_lg.png
+313,Fusion Rune,0,,,https://cdn.dota2.com/apps/dota2/images/items/fusion_rune_lg.png
+354,Ocean Heart,0,,A charm blessed by the Council of the Brine.,https://cdn.dota2.com/apps/dota2/images/items/ocean_heart_lg.png
+355,Broom Handle,0,,The surprisingly dangerous creation of an apprentice sorcerer with a strange fondness for brooms.,https://cdn.dota2.com/apps/dota2/images/items/broom_handle_lg.png
+356,Trusty Shovel,0,,"Former plaything of a young deity, received as a gift from his uncle.",https://cdn.dota2.com/apps/dota2/images/items/trusty_shovel_lg.png
+357,Nether Shawl,0,,An otherworldly garment tethered to our plane by unknown means.,https://cdn.dota2.com/apps/dota2/images/items/nether_shawl_lg.png
+358,Dragon Scale,0,,The remains of a dragon always outvalue the wealth of even the most prodigious hoard.,https://cdn.dota2.com/apps/dota2/images/items/dragon_scale_lg.png
+359,Essence Ring,0,,An ancient bauble blessed by the breath of Verodicia.,https://cdn.dota2.com/apps/dota2/images/items/essence_ring_lg.png
+360,Clumsy Net,0,,,https://cdn.dota2.com/apps/dota2/images/items/clumsy_net_lg.png
+361,Enchanted Quiver,0,,A graceful gift blessed by the goddess of the hunt.,https://cdn.dota2.com/apps/dota2/images/items/enchanted_quiver_lg.png
+362,Ninja Gear,0,,Valuable equipment recovered by a young explorer sifting through the flotsam and detritus drifting in the void.,https://cdn.dota2.com/apps/dota2/images/items/ninja_gear_lg.png
+363,Illusionist's Cape,0,,A dashing cape whose creator insists on calling 'Cloak of Apparition' as opposed to his assistant's 'Illusion' drivel.,https://cdn.dota2.com/apps/dota2/images/items/illusionsts_cape_lg.png
+364,Havoc Hammer,0,,,https://cdn.dota2.com/apps/dota2/images/items/havoc_hammer_lg.png
+365,Magic Lamp,0,,,https://cdn.dota2.com/apps/dota2/images/items/panic_button_lg.png
+366,Apex,0,,Three orbs of remarkable power bound within a single scepter.,https://cdn.dota2.com/apps/dota2/images/items/apex_lg.png
+367,Ballista,0,,A simple design much improved by a master smith's loving hand.,https://cdn.dota2.com/apps/dota2/images/items/ballista_lg.png
+368,Woodland Striders,0,,,https://cdn.dota2.com/apps/dota2/images/items/woodland_striders_lg.png
+275,Trident Recipe,1,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+370,Book of the Dead,0,,A record of the final reckoning. With one page torn out.,https://cdn.dota2.com/apps/dota2/images/items/demonicon_lg.png
+317,Recipe: Fallen Sky,1,,,https://cdn.dota2.com/apps/dota2/images/items/recipe_lg.png
+371,Fallen Sky,4751,,One of the few surviving creations of the acolytes of the Wyrmforge.,https://cdn.dota2.com/apps/dota2/images/items/fallen_sky_lg.png
+372,Pirate Hat,0,,A salty skulltopper cursed with endless good fortune.,https://cdn.dota2.com/apps/dota2/images/items/pirate_hat_lg.png
+373,Dimensional Doorway,0,,,https://cdn.dota2.com/apps/dota2/images/items/dimensional_doorway_lg.png
+374,Ex Machina,0,,"The remains of an ancient universe, preserved within a single sphere.",https://cdn.dota2.com/apps/dota2/images/items/ex_machina_lg.png
+375,Faded Broach,0,,A life-saving jewel bestowed upon a young queen by a kindly vizier. ,https://cdn.dota2.com/apps/dota2/images/items/faded_broach_lg.png
+376,Paladin Sword,0,,"The sigil blade of the legendary Brother Yhols of Gausra, stripped from its scabbard on the day of his controversial excommunication.",https://cdn.dota2.com/apps/dota2/images/items/paladin_sword_lg.png
+377,Minotaur Horn,0,,The trophy from a mighty beast ambushed and slain in the recesses of its own home.,https://cdn.dota2.com/apps/dota2/images/items/minotaur_horn_lg.png
+378,Orb of Destruction,0,,"An ingot of chaos suspended in wizard's ether, housed within an arcanist's orb.",https://cdn.dota2.com/apps/dota2/images/items/orb_of_destruction_lg.png
+379,The Leveller,0,,A demonic blade that struck the final blow to crack the gates of the Sanctum of Solanas.,https://cdn.dota2.com/apps/dota2/images/items/the_leveller_lg.png
+349,Arcane Ring,0,,Once a prized heirloom of a minor lord's house.,https://cdn.dota2.com/apps/dota2/images/items/arcane_ring_lg.png
+381,Titan Sliver,0,,"Though many desire this brilliant shard for its obvious qualities, a school of study exists to determine the true size and purpose of its incomprehensible whole.",https://cdn.dota2.com/apps/dota2/images/items/titan_sliver_lg.png
+565,Chipped Vest,0,,"It doesn't look like much, but it's oddly comfy.",https://cdn.dota2.com/apps/dota2/images/items/chipped_vest_lg.png
+566,Wizard Glass,0,,,https://cdn.dota2.com/apps/dota2/images/items/wizard_glass_lg.png
+570,Gloves of Travel,0,,,https://cdn.dota2.com/apps/dota2/images/items/gloves_of_travel_lg.png
+573,Elven Tunic,0,,Even simple items of elven make seem imbued with inexplicable efficacy.,https://cdn.dota2.com/apps/dota2/images/items/elven_tunic_lg.png
+574,Cloak of Flames,0,,A very fine cloak that plays host to an overly-protective living flame.,https://cdn.dota2.com/apps/dota2/images/items/cloak_of_flames_lg.png
+575,Venom Gland,0,,,https://cdn.dota2.com/apps/dota2/images/items/venom_gland_lg.png
+571,Trickster Cloak,0,,A fantastic garment immediately misplaced by its creator upon completion.,https://cdn.dota2.com/apps/dota2/images/items/trickster_cloak_lg.png
+576,Helm of the Gladiator,0,,,https://cdn.dota2.com/apps/dota2/images/items/gladiator_helm_lg.png
+577,Possessed Mask,0,,"Even when discarded with specific purpose and great care, this frightening mask always finds its way onto the face of a new owner.",https://cdn.dota2.com/apps/dota2/images/items/possessed_mask_lg.png
+578,Ancient Perseverance,0,,,https://cdn.dota2.com/apps/dota2/images/items/ancient_perseverance_lg.png
+637,Star Mace,0,,,https://cdn.dota2.com/apps/dota2/images/items/star_mace_lg.png
+638,Penta-Edged Sword,0,,"The final, twisted work of a severely pious blacksmith, completed immediately before the taking of his own life. ",https://cdn.dota2.com/apps/dota2/images/items/penta_edged_sword_lg.png
+582,Oakheart,0,,,https://cdn.dota2.com/apps/dota2/images/items/oakheart_lg.png
+674,Warhammer,0,,,https://cdn.dota2.com/apps/dota2/images/items/warhammer_lg.png
+680,Bullwhip,0,,Once the favored lash of an infamous broker of pit fighters and other live trade.,https://cdn.dota2.com/apps/dota2/images/items/bullwhip_lg.png
+675,Psychic Headband,0,,"A failed experiment in finer telekinetic control, still fit for other ends.",https://cdn.dota2.com/apps/dota2/images/items/psychic_headband_lg.png
+676,Ceremonial Robe,0,,One of many items lost in the looting of Zelenwyr's sacred reliquary.,https://cdn.dota2.com/apps/dota2/images/items/ceremonial_robe_lg.png
+686,Quicksilver Amulet,0,,An enchanted talisman brimming with a mysterious substance.,https://cdn.dota2.com/apps/dota2/images/items/quicksilver_amulet_lg.png
+677,Book of Shadows,0,,An impossible tome filled with unreadable prose of unknowable thoughts.,https://cdn.dota2.com/apps/dota2/images/items/book_of_shadows_lg.png
+678,Giant's Ring,0,,Prized procurement of an otherwise unremarkable ruler of Elze who abdicated his position and vanished.,https://cdn.dota2.com/apps/dota2/images/items/giants_ring_lg.png
+679,Shadow of Vengeance,0,,,https://cdn.dota2.com/apps/dota2/images/items/vengeances_shadow_lg.png
+585,Stormcrafter,0,,The accidental byproduct of a spell conjured to entrap a lesser god.,https://cdn.dota2.com/apps/dota2/images/items/stormcrafter_lg.png
+588,Overflowing Elixir,0,,,https://cdn.dota2.com/apps/dota2/images/items/overflowing_elixir_lg.png
+589,Fairy's Trinket,0,,A small token imbued with the fortune of the fae in recognition of an intriguing display of mortal kindness.,https://cdn.dota2.com/apps/dota2/images/items/mysterious_hat_lg.png
+196,Diffusal Blade,3850,Does not stack with other manabreak abilities.,An enchanted blade that allows the user to cut straight into the enemy's soul.,https://cdn.dota2.com/apps/dota2/images/items/diffusal_blade_2_lg.png

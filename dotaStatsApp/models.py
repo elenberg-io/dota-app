@@ -7,7 +7,7 @@ from django.db import models
 class Heroes(models.Model):
     hero_id = models.PositiveIntegerField(primary_key=True)
     localized_name = models.TextField()
-    roles = models.TextField()
+    roles = models.JSONField()
     primary_attr = models.TextField()
     attack_type = models.TextField()
     base_health = models.PositiveIntegerField()

@@ -177,4 +177,17 @@ player_cols = ['player_slot',
                'xp_per_min',
                'total_xp',
                'rank_tier',
-               'randomed']
+               'randomed',
+               'item_0',
+               'item_1',
+               'item_2',
+               'item_3',
+               'item_4',
+               'item_5']
+
+item_cols = ['id',
+             'dname',
+             'cost',
+             'notes',
+             'lore',
+             'img']
