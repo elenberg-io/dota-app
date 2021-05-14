@@ -26,7 +26,7 @@ SECRET_KEY = '6(@sqe$_c%3%-3a$e0h_=snx17u)mkmst=2fip)!8pwm#_#32i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["dota-for-noobs.heroku.app"]
 
 
 # Application definition
