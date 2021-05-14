@@ -12,9 +12,6 @@ class Command(BaseCommand):
     help = 'Loads Dota heroes data and stats'
 
     def handle(self, *args, **options):
-        # if GameStats.objects.exists():
-        #     print('Game stats data already loaded')
-        #     return
         matchData_fp = os.path.join('data', 'output', 'matchData.csv')
         print('Loading match data')
         with open(matchData_fp) as matchData_file:

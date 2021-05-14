@@ -11,7 +11,6 @@ from dotaStatsApp.models import Heroes
 
 class Command(BaseCommand):
     help = 'Loads Dota heroes data and stats'
-
     def handle(self, *args, **options):
         if Heroes.objects.exists():
             print('Heroes data already loaded')
