@@ -4,7 +4,7 @@
 
     <div class="">
         <a href="{% url 'hero_detailed' hero.hero_id %}">
-            {% load staticfiles %}
+            {% load static %}
             {% with "images/heroes/vert/"|add:hero.dname|add:".jpg" as hero_img %}
             <img class="img-fluid" src="{% static hero_img %}" alt="Card image cap">
             {% endwith %}

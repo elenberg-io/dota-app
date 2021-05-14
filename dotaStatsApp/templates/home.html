@@ -8,7 +8,7 @@
             <div class="col-md-2 col-lg-2 col-xl-2 py-2">
                 <div class="card text-center" style="width: 12rem;">
                     <a href="{% url 'hero_detailed' hero.hero_id %}">
-                        {% load staticfiles %}
+                        {% load static %}
                         {% with "images/heroes/full/"|add:hero.dname|add:".png" as hero_img %}
                         <img class="card-img-top" src="{% static hero_img %}" alt="Card image cap">
                         {% endwith %}
