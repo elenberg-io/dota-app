@@ -1,0 +1,88 @@
+{% extends "base.html" %}
+{% block content %}
+<div>
+
+    <div class="">
+        <a href="{% url 'hero_detailed' hero.hero_id %}">
+            {% load staticfiles %}
+            {% with "images/heroes/vert/"|add:hero.dname|add:".jpg" as hero_img %}
+            <img class="img-fluid" src="{% static hero_img %}" alt="Card image cap">
+            {% endwith %}
+            <div class="card-img-overlay">
+        </a></div>
+    <h3>{{ hero.dname|capfirst}}</h3>
+    <p>{{ hero.primary_attr }}</p>
+    <div class="card-columns">
+        <div class="card bg-light">
+            <div class="card-body text-center">
+                <p class="card-text"> Attack type: {{ hero.attack_type}} </p>
+            </div>
+        </div>
+        <div class="card bg-info">
+            <div class="card-body text-center">
+                <p class="card-text"> Base Health Regen: {{ hero.base_health_regen}} </p>
+            </div>
+        </div>
+        <div class="card bg-light">
+            <div class="card-body text-center">
+                <p class="card-text"> Base Mana: {{ hero.base_mana}} </p>
+            </div>
+        </div>
+        <div class="card bg-info">
+            <div class="card-body text-center">
+                <p class="card-text"> Base Mana Regen: {{ hero.base_mana_regen}} </p>
+            </div>
+        </div>
+        <div class="card bg-light">
+            <div class="card-body text-center">
+                <p class="card-text"> Base Armor: {{ hero.base_armor}} </p>
+            </div>
+        </div>
+        <div class="card bg-info">
+            <div class="card-body text-center">
+                <p class="card-text"> Base Strength: {{ hero.base_str}} </p>
+            </div>
+        </div>
+        <div class="card bg-light">
+            <div class="card-body text-center">
+                <p class="card-text"> Base Agility: {{ hero.base_agi}} </p>
+            </div>
+        </div>
+        <div class="card bg-info">
+            <div class="card-body text-center">
+                <p class="card-text"> Base Intelligence: {{ hero.base_int}} </p>
+            </div>
+        </div>
+        <div class="card bg-light">
+            <div class="card-body text-center">
+                <p class="card-text"> Base Strength Gain: {{ hero.str_gain}} </p>
+            </div>
+        </div>
+        <div class="card bg-info">
+            <div class="card-body text-center">
+                <p class="card-text"> Base Agility Gain: {{ hero.agi_gain}} </p>
+            </div>
+        </div>
+        <div class="card bg-light">
+            <div class="card-body text-center">
+                <p class="card-text"> Base Intelligence Gain: {{ hero.int_gain}} </p>
+            </div>
+        </div>
+        <div class="card bg-info">
+            <div class="card-body text-center">
+                <p class="card-text"> Attack Range: {{ hero.attack_range}} </p>
+            </div>
+        </div>
+        <div class="card bg-light">
+            <div class="card-body text-center">
+                <p class="card-text"> Attack Rate: {{ hero.attack_rate}} </p>
+            </div>
+        </div>
+        <div class="card bg-info">
+            <div class="card-body text-center">
+                <p class="card-text"> Move Speed: {{ hero.move_speed}} </p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

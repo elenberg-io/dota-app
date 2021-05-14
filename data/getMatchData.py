@@ -5,23 +5,23 @@ import requests
 import pandas as pd
 import json
 import os
-from static.mappings import regions_map, game_mode_map, match_cols, player_cols
+from mappings import regions_map, game_mode_map, match_cols, player_cols
 
 
 # get the starting gameID for the API calls
 try:
     final_gameID_df = pd.read_csv(os.path.join('output', 'matchData.csv'), usecols=['match_id'])
     if len(final_gameID_df) == 1:
-        final_gameID = 5975826794
+        final_gameID = 5992892504
     else:
         final_gameID = final_gameID_df.min()[0] - 1
 except pd.errors.EmptyDataError:
-    final_gameID = 5975826794
+    final_gameID = 5992892504
 
 # instantiate dataframe that will hold API call processed data
 total_match_df = pd.DataFrame()
 try:
-    for match_id in range(final_gameID, final_gameID - 20, -1):
+    for match_id in range(final_gameID, final_gameID - 300, -1):
         match = requests.get('https://api.opendota.com/api/matches/{}'.format(match_id))
 
         match = json.loads(match.text)

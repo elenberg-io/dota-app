@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<div>
+    <div class="container">
+        <div class="row">
+            {% for hero in heroes %}
+            <div class="col-md-2 col-lg-2 col-xl-2 py-2">
+                <div class="card text-center" style="width: 12rem;">
+                    <a href="{% url 'hero_detailed' hero.hero_id %}">
+                        {% load staticfiles %}
+                        {% with "images/heroes/full/"|add:hero.dname|add:".png" as hero_img %}
+                        <img class="card-img-top" src="{% static hero_img %}" alt="Card image cap">
+                        {% endwith %}
+                        <div class="card-img-overlay">
+                    </a>
+                    <div class="card-body">
+                        <a href="{% url 'hero_detailed' hero.hero_id %}"
+                           class="btn btn-primary .stretched-link">{{ hero.localized_name|capfirst }}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endblock %}
+</div>

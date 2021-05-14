@@ -1,0 +1,17 @@
+#centered {
+    text-align: center;
+}
+
+#site-title {
+    color: white;
+}
+
+#test {
+    color: white;
+}
+
+body {
+    background: url(/static/images/dota2.jpg);
+    color: black;
+}
+

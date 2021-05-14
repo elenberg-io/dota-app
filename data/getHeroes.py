@@ -38,5 +38,7 @@ heroes_df['img_vert'] = heroes_df.json_field.apply(
     lambda x: 'https://cdn.dota2.com' + dict(x)['img'].split("full.png")[0] + "vert.jpg")
 heroes_df.drop('json_field', 1, inplace=True)
 heroes_df.index = heroes_df.index.map(lambda x: x.split('npc_dota_hero_')[1])
+heroes_df.reset_index(inplace=True)
+heroes_df.rename(columns={'index': 'dname'}, inplace=True)
 
-heroes_df.to_csv(os.path.join('output', 'heroesData.csv'))
+heroes_df.to_csv(os.path.join('output', 'heroesData.csv'), index=False)

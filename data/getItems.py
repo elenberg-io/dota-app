@@ -5,7 +5,7 @@ import requests
 import pandas as pd
 import json
 import os
-from static.mappings import item_cols
+from data.mappings import item_cols
 
 items_map_raw = requests.get('https://api.opendota.com/api/constants/items')
 items_map = json.loads(items_map_raw.text)
