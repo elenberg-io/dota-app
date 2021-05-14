@@ -1,1 +1,1 @@
-web: gunicorn dota-app.wsgi
+web: gunicorn myapp.wsgi
