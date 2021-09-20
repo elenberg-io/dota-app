@@ -1,0 +1,20 @@
+#centered {
+    text-align: center;
+}
+
+#site-title {
+    color: white;
+}
+
+#test {
+    color: white;
+}
+
+body {
+    background: url("/static/images/dota2.5fd7c5dad1cc.jpg");
+    color: black;
+}
+#hero_suggestion{
+   background-color: yellow;
+}
+

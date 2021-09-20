@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+
+<div style="background-color: #c1e1ec;">
+    <div class="container">
+        <div class="card text-center">
+              <div class="card-header">
+                  Hero Suggestion Tool
+              </div>
+        </div>
+    </div>
+
+<div class="container py-5">
+	<h3>Select heroes and click the Submit button to see hero suggestion:</h3>
+	<form method="POST" action="">
+    	{% csrf_token %}
+        <div class="row">
+            <div class="col">
+                Your team's 4 hero choices:
+                {{form1}}
+                </div>
+            <div class="col">
+                 Enemy team's 5 hero choices:
+                {{form2}}
+                </div>
+            <div/>
+            <input class="btn btn-primary" type="submit" value="Submit" >
+    </form>
+</div>
+</div>
+{% endblock %}

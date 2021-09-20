@@ -2,7 +2,7 @@
 Create the models
 """
 from django.db import models
-from django.contrib.postgres.fields import JSONField
+from django.db.models import JSONField
 
 
 class Heroes(models.Model):
@@ -27,10 +27,14 @@ class Heroes(models.Model):
     attack_rate = models.FloatField(default=None, blank=True, null=True)
     move_speed = models.PositiveIntegerField(default=None, blank=True, null=True)
 
+    def __str__(self):
+        return self.localized_name
+
 
 class GameStats(models.Model):
     # blank allows you to pass a null value, null tells the database to accept null values
     # match_id = models.ForeignKey(Games, to_field='match_id', on_delete=models.CASCADE)
+    id = models.AutoField(primary_key=True, auto_created=True, default=None)
     match_id = models.BigIntegerField()
     start_time = models.DateTimeField()
     duration = models.FloatField()

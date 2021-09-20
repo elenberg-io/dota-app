@@ -1,15 +1,15 @@
 {% extends "base.html" %}
 {% block content %}
 <div>
-
-    <div class="">
-        <a href="{% url 'hero_detailed' hero.hero_id %}">
+    <div class="headerhero">
+<!--        <a href="{% url 'hero_detailed' hero.dname %}">-->
             {% load static %}
             {% with "images/heroes/vert/"|add:hero.dname|add:".jpg" as hero_img %}
             <img class="img-fluid" src="{% static hero_img %}" alt="Card image cap">
             {% endwith %}
-            <div class="card-img-overlay">
-        </a></div>
+            <div class="card-img-overlay"> </div>
+<!--        </a>-->
+    </div>
     <h3>{{ hero.dname|capfirst}}</h3>
     <p>{{ hero.primary_attr }}</p>
     <div class="card-columns">
@@ -84,5 +84,6 @@
             </div>
         </div>
     </div>
+
 </div>
 {% endblock %}

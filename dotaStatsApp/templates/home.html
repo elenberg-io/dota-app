@@ -3,19 +3,36 @@
 {% block content %}
 <div>
     <div class="container">
-        <div class="row">
+        <div class="card text-center">
+              <div class="card-header">
+                  Hero Suggestions
+              </div>
+              <div class="card-body">
+                <p class="card-text">Click here to see what hero we suggest you pick based on your team and enemy team!</p>
+                <a href="{% url 'hero_suggestion' %}" class="btn btn-primary">Take me to hero suggestions</a>
+              </div>
+        </div>
+        <div class="card text-center mt-4">
+              <div class="card-header">
+                  Hero Guides
+              </div>
+              <div class="card-body">
+                <p class="card-text">Click below on the heroes to see their stats and info</p>
+              </div>
+        </div>
+        <div class="row mt-2">
             {% for hero in heroes %}
             <div class="col-md-2 col-lg-2 col-xl-2 py-2">
                 <div class="card text-center" style="width: 12rem;">
-                    <a href="{% url 'hero_detailed' hero.hero_id %}">
-                        {% load static %}
+                    <a href="{% url 'hero_detailed' hero.dname %}">
+<!--                        {% load static %}-->
                         {% with "images/heroes/full/"|add:hero.dname|add:".png" as hero_img %}
                         <img class="card-img-top" src="{% static hero_img %}" alt="Card image cap">
                         {% endwith %}
                         <div class="card-img-overlay">
                     </a>
                     <div class="card-body">
-                        <a href="{% url 'hero_detailed' hero.hero_id %}"
+                        <a href="{% url 'hero_detailed' hero.dname %}"
                            class="btn btn-primary .stretched-link">{{ hero.localized_name|capfirst }}</a>
                     </div>
                 </div>
@@ -23,5 +40,5 @@
         </div>
         {% endfor %}
     </div>
-    {% endblock %}
 </div>
+{% endblock %}
